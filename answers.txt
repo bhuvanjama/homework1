@@ -1,0 +1,5 @@
+Q: What is the difference between a merge and a rebase?
+A: merge --> Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. You always create a branch from an existing branch. Typically, you might create a new branch from the default branch of your repository.
+rebase --> If you want to update the start of your branch to a later commit that happened after you branched out, this is the command to use.
+Q: What is a remote repository?
+A: The remote repository is a central online repository that is seen by several collaborators. The remote repository has a history just like the local repository.
